@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("1231231232131");
+            int a = 1324;
             Console.Read();
         }
     }
